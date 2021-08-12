@@ -6,5 +6,5 @@ int main()
     scanf("%d",&a);
     printf("Value %d\n",*p);
     printf("Address: %d",p);
-    return 0;
+
 }
