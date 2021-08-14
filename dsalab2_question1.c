@@ -3,7 +3,7 @@
 int main()
 {
     int* arr;
-    int n,max=0,count;
+    int n,max=0,count=0;
     printf("Enter No. of elements");
     scanf("%d",&n);
 
